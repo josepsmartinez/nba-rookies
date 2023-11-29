@@ -1,0 +1,8 @@
+numpy==1.25.2
+nptyping==2.5.0
+onnx==1.14.1
+onnxruntime==1.15.1
+opencv-python-headless==4.8.0.76
+scikit-image==0.21.0
+scikit-learn==1.3.0
+scipy==1.11.2
